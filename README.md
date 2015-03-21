@@ -1,7 +1,8 @@
 # Course Project: making a tidy dataset #
 
 ## Introduction ##
-In this repo, you will find three files: an R script named run_analysis.R, a code book describing the variables and this README.md file. If you are one of my markers, you will have found my .txt file on the Coursera Course Project site. This is quite a messy .txt, but there is actually a tidy data set there, just load it into R using the following commands: <br>> tidydata<-read.table("./data.txt", header=TRUE)
+In this repo, you will find three files: an R script named run_analysis.R, a code book describing the variables and this README.md file. If you are one of my markers, you will have found my .txt file on the Coursera Course Project site. This is quite a messy .txt, but there is actually a tidy data set there, just load it into R using the following commands: <br>
+>tidydata<-read.table("./data.txt", header=TRUE)
 > View(tidydata) </br>
 
 ## The code: run_analysis.R
