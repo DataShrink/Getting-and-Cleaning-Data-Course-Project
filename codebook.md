@@ -1,9 +1,9 @@
-Code Book:
+# Code Book: # 
 
 This dataset is a subset of the 'The Human Activity Recognition Using Smartphones Dataset, version 1.0
 www.smartlab.was
 
-Experimental design and background: 
+##Experimental design and background: ##
 Extracted from the README.txt of the original dataset:
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 
@@ -22,7 +22,7 @@ assumed to have only low frequency components, therefore a filter with 0.3 Hz cu
 used. From each window, a vector of features was obtained by calculating variables from the time and 
 frequency domain. 
 
-Raw data:
+## Raw data: ##
 Extracted from the README.txt of the original dataset:
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals
@@ -46,7 +46,7 @@ All these features are normalized and bounded within [-1,1].
 The variables that were estimated from these signals are: mean, standard deviation, median, largest
 value, smallest value, and multiple other statistics.
 
-Processed data:
+##Processed data:##
 This data set contains 68 variables. From the raw data from the website, a selection was made: only 
 the mean and standard deviation of the features were selected. This left 66 variables, being the mean
 and standard deviation estimate of the following signals:
