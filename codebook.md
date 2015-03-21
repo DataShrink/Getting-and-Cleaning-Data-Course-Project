@@ -1,4 +1,4 @@
-# Code Book: # 
+# Code Book: 
 
 This dataset is a subset of the 'The Human Activity Recognition Using Smartphones Dataset, version 1.0
 www.smartlab.was
